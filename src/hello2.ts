@@ -8,5 +8,5 @@ const result = greeter(user);
 
 console.log(result)
 
-// tsc hello2.ts
-// node hello2.js
+// tsc
+// node dist/hello2.js

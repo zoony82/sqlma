@@ -2,8 +2,8 @@
 function greeter(person) {
     return "Hello, " + person;
 }
-var user = "insamdev";
+var user = "insamdev-1";
 var result = greeter(user);
 console.log(result);
-// tsc hello2.ts
-// node hello2.js
+// tsc
+// node dist/hello2.js
